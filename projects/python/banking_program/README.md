@@ -15,7 +15,7 @@ Withdraw: Allows users to withdraw money from their account.
 
 ## Requirements
 * Python 3.x
-The command 'pip install -r requirements.txt' can be used to install the following requirements.
+* The command 'pip install -r requirements.txt' can be used to install the following requirements.
 * colorama
 
 ## How to Run

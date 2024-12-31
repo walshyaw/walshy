@@ -7,7 +7,7 @@ This is a very basic Hangman game with three levels of difficulty. As the diffic
 
 ## Requirements
 * Python 3.x
-The command 'pip install -r requirements.txt' can be used to install the following requirements.
+* The command 'pip install -r requirements.txt' can be used to install the following requirements.
 * colorama
 
 ## How to Run
