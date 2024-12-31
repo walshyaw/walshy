@@ -9,7 +9,7 @@ def main():
     bal = 0
     init_bank(bal)
 
-# INITALIZES THE BANK AND DISPLAYS THE POSSIBLE FUNCTIONS THAT CAN BE RAN.
+# INITALIZES THE BANK AND DISPLAYS THE POSSIBLE FUNCTIONS THAT CAN BE RAN WITHIN IT.
 def init_bank(bal):
 
     is_running = True
